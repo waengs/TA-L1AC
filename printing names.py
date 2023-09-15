@@ -1,1 +1,1 @@
-''' Create a program that print 'Hello' + name '''
+''' Create a program that prints 'Hello' + name '''
